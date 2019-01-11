@@ -5,7 +5,7 @@ Fungsi 2
 ![alt text](https://github.com/Alfian29/Praktikum3/blob/master/SSModul5/fungsi2.png?raw=true)
 Beranda
 ![alt text](https://github.com/Alfian29/Praktikum3/blob/master/SSModul5/Latihan/beranda.png?raw=true)
-Beranda
+Index
 ![alt text](https://github.com/Alfian29/Praktikum3/blob/master/SSModul5/Latihan/index.png?raw=true)
 
 # Modul 6
